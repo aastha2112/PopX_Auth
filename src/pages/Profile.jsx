@@ -32,7 +32,7 @@ const Profile = () => {
           Sed Diam
         </p>
       </div>
-      <div className="w-full border-b-[#CBCBCB] border-b-1 border-dashed  bottom-[36px] fixed "></div>
+      <div className="w-full max-w-[420px] mx-auto border-b-[#CBCBCB] border-b-1 border-dashed  bottom-[36px] fixed "></div>
     </div>
   );
 };

@@ -7,7 +7,7 @@ import Profile from "./pages/Profile";
 
 const App = () => {
   return (
-    <div className="bg-[#F7F8F9]">
+    <div className="bg-[#F7F8F9] w-full max-w-[420px] mx-auto">
       {/* <Home /> */}
       <Routes>
         <Route path="/" element={<Home />} />
